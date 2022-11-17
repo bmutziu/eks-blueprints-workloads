@@ -5,4 +5,4 @@ spec:
     repoURL: https://github.com/bmutziu/eks-blueprints-workloads
     targetRevision: main
   ingress:
-    host: dev.bmutziu.me
+    host: dev.deepseadevops.net
